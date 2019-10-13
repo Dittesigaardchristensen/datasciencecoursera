@@ -1,0 +1,12 @@
+---
+title: "HelloWorld"
+author: "Ditte Sigaard Christensen"
+date: "13/10/2019"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
